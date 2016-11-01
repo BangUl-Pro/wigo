@@ -37,3 +37,6 @@ public/components/
 
 # Vendor (glide output)
 vendor/
+
+#intelliJ
+.idea/*
